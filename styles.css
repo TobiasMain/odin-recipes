@@ -1,0 +1,21 @@
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: white;
+    background-color: black;
+}
+
+h1,
+h3,
+h4,
+li {
+    font-weight: 300;
+}
+
+
+
+img {
+    height: auto;
+    width: 400px;
+}
